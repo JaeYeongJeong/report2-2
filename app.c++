@@ -2,5 +2,6 @@
 
 int main(){
   printf('init');
-  printf('Create new branch');
+  printf('master branch');
+  printf('catch error');
 }
