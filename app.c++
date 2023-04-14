@@ -2,4 +2,5 @@
 
 int main(){
   printf('init');
+  printf('master branch');
 }
